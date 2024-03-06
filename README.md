@@ -6,7 +6,7 @@
 
 
 <h2 align="center">
->Web Developer : Passionate to create unique Web Sites  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+><h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm V Pranay Kumar Reddy</h1> 
 </h2>
 
 
@@ -33,17 +33,17 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/v-pranay-kumar-reddy-343246225/">V Pranay Kumar Reddy</a></b>
         </samp>
-</h3>
+</h3>  -->
 
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Web appplication developer from <b>India</b> 」
+    <h2 align="center">「A Full Stack Web appplication developer 」</h2>
     <br>
     <br>
   </samp>
